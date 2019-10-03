@@ -3,5 +3,5 @@
 Set of Recipes given by my gramma
 
 - Pizza (TODO)
-- Sauces (TODO)
+- Suaces (TODO)
 - Spreads (TODO)
