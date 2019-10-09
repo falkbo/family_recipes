@@ -3,6 +3,8 @@
 Set of recipes as given by my Gramma
 
 -Spreads (TODO)
--Pizzas (TODO)
+-Pizzas 
+    -[base](./pizzas/base.md)
 -Sauces(TODO)
+
 
